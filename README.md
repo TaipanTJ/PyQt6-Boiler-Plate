@@ -1,2 +1,3 @@
-# PyQt6 Boiler Plate
- Boiler Plate Code to start PyQt6 projects
+# FIA2 Project
+
+This is my code for my FIA2 Project
